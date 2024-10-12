@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a **Node.js** API built using **Express** and **MongoDB**. It provides RESTful services for searching and managing users (CRUD operations). The search functionality allows for case-insensitive querying by name or email. Unit tests are implemented using **Jest**.
+This project is for technical test. This is a **Node.js** API built using **Express** and **MongoDB**. It provides RESTful services for searching and managing users (CRUD operations). The search functionality allows for case-insensitive querying by name or email. Unit tests are implemented using **Jest**.
 
 ## Features
 
